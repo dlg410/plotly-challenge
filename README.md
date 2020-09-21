@@ -1,5 +1,7 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
@@ -76,4 +78,4 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 - - -
 
-© 2019 Trilogy Education Services
+<!-- © 2019 Trilogy Education Services -->
